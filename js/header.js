@@ -1,3 +1,4 @@
+//credit to Johan Fagerbeg (https://codepen.io/birjolaxew)
 var c = document.getElementById("myCanvas");
 var ctx = c.getContext("2d");
 var mask;
